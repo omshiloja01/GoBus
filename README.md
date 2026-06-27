@@ -1,5 +1,5 @@
 # 🚌 GoBus – Bus Booking Management System – DBMS Project
-This project is a database-only Bus Booking Management System, created as part of an academic DBMS project. It includes a well-structured relational database schema, populated with sample data, and a set of useful SQL queries for operations like booking management, route tracking, and passenger analysis.
+This project is a database-only Bus Booking Management System built using PostgreSQL. It includes a well-structured relational database schema, populated with sample data, and a set of useful SQL queries for operations like booking management, route tracking, and passenger analysis.
 
 ## 🛠️ Project Overview
 The project simulates how bus-booking-related data is stored and managed in a structured and normalized relational database system.
